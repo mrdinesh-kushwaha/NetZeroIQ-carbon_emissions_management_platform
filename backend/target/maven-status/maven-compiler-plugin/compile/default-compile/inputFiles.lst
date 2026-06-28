@@ -1,46 +1,46 @@
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\repository\TenantRepository.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\repository\UploadBatchRepository.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\dto\DashboardStatsDto.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\dto\TenantDto.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\service\AuditService.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\repository\AuditLogRepository.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\service\IngestionService.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\dto\PagedResponse.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\model\RawRecord.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\security\JwtUtil.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\controller\AuthController.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\controller\EmissionsController.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\dto\AuditLogDto.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\dto\RawRecordDto.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\controller\IngestionController.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\controller\ReviewController.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\security\JwtAuthenticationFilter.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\model\AuditLog.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\repository\RawRecordRepository.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\model\ReviewDecision.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\model\Tenant.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\model\User.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\repository\ReviewDecisionRepository.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\security\UserDetailsServiceImpl.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\repository\DataSourceRepository.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\config\DataInitializer.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\config\GlobalExceptionHandler.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\dto\AuthDtos.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\dto\DataSourceDto.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\dto\DataSourceRequest.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\controller\AuditController.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\dto\NormalizedRecordDto.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\config\SecurityConfig.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\dto\ReviewRequest.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\model\DataSource.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\model\NormalizedRecord.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\netzeroiqApplication.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\dto\BulkReviewRequest.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\dto\UserDto.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\repository\UserRepository.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\dto\UploadBatchDto.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\repository\NormalizedRecordRepository.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\service\NormalizationService.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\config\JacksonConfig.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\model\UploadBatch.java
-C:\Users\Dinesh\Downloads\CarbonLens_DevProd_Render_Production_Fixed\backend\src\main\java\com\netzeroiq\dto\ReviewDecisionDto.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\repository\NormalizedRecordRepository.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\dto\AuditLogDto.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\dto\ReviewDecisionDto.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\repository\AuditLogRepository.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\service\NormalizationService.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\controller\AuditController.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\repository\UploadBatchRepository.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\dto\DataSourceRequest.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\model\User.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\controller\AuthController.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\dto\NormalizedRecordDto.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\model\DataSource.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\repository\DataSourceRepository.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\config\DataInitializer.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\dto\BulkReviewRequest.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\repository\UserRepository.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\service\AuditService.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\model\NormalizedRecord.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\model\UploadBatch.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\dto\TenantDto.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\controller\ReviewController.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\repository\RawRecordRepository.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\repository\ReviewDecisionRepository.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\dto\AuthDtos.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\controller\EmissionsController.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\dto\PagedResponse.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\dto\DashboardStatsDto.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\netzeroiqApplication.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\service\IngestionService.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\config\JacksonConfig.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\dto\UploadBatchDto.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\security\JwtAuthenticationFilter.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\controller\IngestionController.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\dto\DataSourceDto.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\repository\TenantRepository.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\security\UserDetailsServiceImpl.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\security\JwtUtil.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\config\SecurityConfig.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\model\Tenant.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\dto\RawRecordDto.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\dto\ReviewRequest.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\model\RawRecord.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\config\GlobalExceptionHandler.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\model\ReviewDecision.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\dto\UserDto.java
+E:\Projects'26\Full Stack\Java\NetZeroIQ - ESG Platform\backend\src\main\java\com\netzeroiq\model\AuditLog.java

@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/netzeroiq-ESG%20Platform-1D9E75?style=for-the-badge&logoColor=white" />
 
-# 🌿 netzeroiq
+# 🌿 NetZeroIQ
 
 ### Enterprise Emissions Management Platform
 

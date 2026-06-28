@@ -1,4 +1,4 @@
-# CarbonLens — Emissions Ingestion & Review Platform
+# NetZeroIQ — Emissions Ingestion & Review Platform
 
 A production-grade prototype for ingesting, normalising, and reviewing corporate emissions data from SAP exports, utility portals, and travel management systems.
 

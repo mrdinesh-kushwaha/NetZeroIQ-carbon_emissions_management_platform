@@ -1,0 +1,45 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Backend
+backend/target/
+backend/build/
+
+# H2 Database
+backend/data/
+*.mv.db
+*.trace.db
+*.lock.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Cache
+.cache/
+
+# Coverage
+coverage/
+
+# Temporary
+tmp/
+temp/
+*.tmp
+*.temp

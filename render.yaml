@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: carbonlens-backend
+    name: netzeroiq-backend
     env: docker
     plan: free
     rootDir: backend
