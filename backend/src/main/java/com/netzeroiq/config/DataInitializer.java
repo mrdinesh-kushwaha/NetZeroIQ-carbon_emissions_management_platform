@@ -69,9 +69,9 @@ public class DataInitializer implements CommandLineRunner {
                         .industry("Sustainability / Emissions Intelligence")
                         .build()));
 
-        User analyst = upsertDemoUser("analyst@netzeroiq.com", "Raj", "Analyst", User.Role.analyst, false, tenant, "analyst@1234");
-        upsertDemoUser("reviewer@netzeroiq.com", "Amrit", "Reviewer", User.Role.reviewer, false, tenant, "reviewer@1234");
-        upsertDemoUser("dinesh@netzeroiq.com", "Dinesh Kushwaha", "Admin", User.Role.admin, true, tenant, "dinesh@1234");
+        User analyst = upsertDemoUser("analyst@netzeroiq.com", "Raj", "Analyst", User.Role.analyst, false, tenant, analystPassword);
+        upsertDemoUser("reviewer@netzeroiq.com", "Amrit", "Reviewer", User.Role.reviewer, false, tenant, reviewerPassword);
+        upsertDemoUser("dinesh@netzeroiq.com", "Dinesh Kushwaha", "Admin", User.Role.admin, true, tenant, adminPassword);
 
         DataSource sapSource = seedDataSource(tenant, "SAP Production Export", DataSource.SourceType.sap_export, "Monthly fuel and procurement CSV exports.");
         DataSource utilitySource = seedDataSource(tenant, "Utility Billing Portal", DataSource.SourceType.utility_portal, "Electricity and energy billing CSV imports.");
@@ -153,16 +153,14 @@ public class DataInitializer implements CommandLineRunner {
     }
 
     private byte[] readSampleData(String filename) throws Exception {
-        List<Path> candidates = List.of(
-                Path.of("sample_data", filename),
-                Path.of("..", "sample_data", filename),
-                Path.of(".", "sample_data", filename)
-        );
-        for (Path path : candidates) {
-            if (Files.exists(path)) {
-                return Files.readAllBytes(path);
-            }
+    try (var inputStream = getClass().getClassLoader()
+            .getResourceAsStream("sample_data/" + filename)) {
+
+        if (inputStream == null) {
+            throw new IllegalStateException("sample_data/" + filename + " not found in classpath.");
         }
-        throw new IllegalStateException("sample_data/" + filename + " not found. Run backend from project root or backend folder.");
+
+        return inputStream.readAllBytes();
+        }
     }
 }
