@@ -19,7 +19,7 @@
 
 <br/>
 
-[Live Demo](https://net-zero-iq-carbon-emissions-manage.vercel.app) · [Application Preview](#-authentication) · [Report Bug](mailto:dineshkushwaha1312@gmail.com) · [Project Structure](#-project-structure) 
+[Live Demo](https://net-zero-iq-carbon-emissions-manage.vercel.app) · [Application Preview](#-authentication) .[Login Credentials](#-login-credentials) · [Report Bug](mailto:dineshkushwaha1312@gmail.com) · [Project Structure](#-project-structure) 
 
 </div>
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 🔑 Application Credentials
+## 🔑 Login Credentials
 
 > Credentials are force-verified on every backend startup — no stale password issues.
 
