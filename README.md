@@ -28,6 +28,36 @@
 **netzeroiq** is a multi-tenant ESG emissions tracking platform built for enterprise use. It ingests data from **SAP exports**, **utility portals**, and **travel booking systems** (Concur/Navan), normalizes everything into CO₂e figures, and routes records through a structured **review-and-approval workflow** with a full audit trail.
 
 ---
+# Project Preview
+
+### 🔑 Authentication
+| Login |
+|--------|
+| ![Login](./frontend/public/screenshot/login-page.png)
+ 
+### 👤 Analyst Role
+| Dashboard | File upload |
+|-----------|----------|
+| ![Dashboard](./frontend/public/screenshot/analyst-dash.png) | ![File upload](./frontend/public/screenshot/analyst-upload.png) |
+ 
+| Audit | |
+|-------|--|
+| ![Audit](./frontend/public/screenshot/analyst-audit.png) | |
+ 
+### 🛡️ Reviewer Role
+| Dashboard | Review |
+|-----------|----------|
+| ![Dashboard](./frontend/public/screenshot/reviewer-dash.png) | ![Review](./frontend/public/screenshot/reviewer-review.png) |
+
+### 👑 Admin Role
+ 
+| | |
+|--|--|
+| ![Dashboard](./frontend/public/screenshot/admin-dash.png) | ![File upload](./frontend/public/screenshot/admin-upload.png) |
+| ![Review](./frontend/public/screenshot/admin-review.png) | ![Audit](./frontend/public/screenshot/admin-audit.png) |
+
+
+---
 
 ## ✨ Features
 
@@ -202,6 +232,13 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
+## 👨‍💻 Author
+
+Developed with ❤️ by **Dinesh Kushwaha**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrdinesh-kushwaha/)
+
+---
 <div align="center">
 
 Made with 🌿 by **netzeroiq Inc.** © 2026
