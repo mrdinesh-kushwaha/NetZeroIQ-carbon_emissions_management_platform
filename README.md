@@ -18,7 +18,8 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 <br/>
-[Live Demo](https://net-zero-iq-carbon-emissions-manage.vercel.app/) · [Application Preview](#-project-preview) · [Report Bug](mailto:dineshkushwaha1312@gmail.com) · [Project Structure](#-project-structure) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrdinesh-kushwaha/)
+
+[Live Demo](https://net-zero-iq-carbon-emissions-manage.vercel.app) · [Application Preview](#-authentication) · [Report Bug](mailto:dineshkushwaha1312@gmail.com) · [Project Structure](#-project-structure) 
 
 </div>
 
